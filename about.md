@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+ACM-W is the ACM committee on Women in Computing.
+It celebrates, informs and supports women in computing, and works with the ACM-W community of computer scientists, educators, employers and policy makers to improve working and learning environments for women.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+The Rensselaer Polytechnic Institute Chapter of the Association for Computing Machinery’s Committee on Women in Computing strives to recruit, engage, and rejoice in the accomplishments of female computer scientists within the institute.
+By providing a variety of workshops, networking events, and career advancement opportunities, the chapter strives to create equal opportunity and diversification in CS-related fields.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Read our Constitution [here](https://docs.google.com/document/d/1gXkmxOaFf0FrtuAgaFdubyt46g6ndx7xf6vzF4TD5Qg/pub).
