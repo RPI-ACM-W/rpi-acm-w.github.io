@@ -8,20 +8,20 @@ highlighter: pygments
 permalink: pretty
 
 title: RPI ACM-W
-tagline: 'RPI's group for Women in Computing'
-description: 'RPI's Chapter of the ACM-W'
+#tagline: 'RPI's group for Women in Computing'
+# description: 'RPI's Chapter of the ACM-W'
 
-author:
-  name: 'Elsa Gonsiorowski'
-  url: http://www.gonsie.com
+# author:
+#   name: 'Elsa Gonsiorowski'
+#   url: http://www.gonsie.com
 
-# number of posts that appear on a page
-paginate: 5
+# # number of posts that appear on a page
+# paginate: 5
 
-# Sidebar Vars
-#version: 1.0
-github:
-  repo: https://github.com/RPI-ACM-W
+# # Sidebar Vars
+# #version: 1.0
+# github:
+#   repo: https://github.com/RPI-ACM-W
 
-# Exclude Files
-exclude: ['README.md']
+# # Exclude Files
+# exclude: ['README.md']
