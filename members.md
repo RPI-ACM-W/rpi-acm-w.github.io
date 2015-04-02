@@ -4,7 +4,7 @@ title: Members
 permalink: /members/
 ---
 
-{% for org_hash in site.data.orgs %}
+{% for org_hash in site.data.orgs | sort: 'name' %}
 {% assign org = org_hash[1] %}
 <p><h2>{{ org.name }}</h2>
     <ul>
