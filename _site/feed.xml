@@ -3,10 +3,10 @@
   <channel>
     <title>RPI ACM-W</title>
     <description></description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 08 Apr 2015 13:47:20 -0400</pubDate>
-    <lastBuildDate>Wed, 08 Apr 2015 13:47:20 -0400</lastBuildDate>
+    <link>http://www.cs.rpi.edu/~acm-w//</link>
+    <atom:link href="http://www.cs.rpi.edu/~acm-w//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 08 Apr 2015 13:48:28 -0400</pubDate>
+    <lastBuildDate>Wed, 08 Apr 2015 13:48:28 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -26,8 +26,8 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 02 Apr 2015 04:12:02 -0400</pubDate>
-        <link>/jekyll/update/2015/04/02/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">/jekyll/update/2015/04/02/welcome-to-jekyll/</guid>
+        <link>http://www.cs.rpi.edu/~acm-w//jekyll/update/2015/04/02/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://www.cs.rpi.edu/~acm-w//jekyll/update/2015/04/02/welcome-to-jekyll/</guid>
         
         
         <category>jekyll</category>
