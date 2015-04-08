@@ -7,6 +7,7 @@ highlighter: pygments
 # Premalinks
 permalink: pretty
 
+source: _source/
 baseurl: http://www.cs.rpi.edu/~acm-w/
 
 title: RPI ACM-W
