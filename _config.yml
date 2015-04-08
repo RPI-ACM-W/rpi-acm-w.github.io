@@ -7,8 +7,10 @@ highlighter: pygments
 # Premalinks
 permalink: pretty
 
+future: TRUE
+
 source: _source/
-baseurl: http://www.cs.rpi.edu/~acm-w/
+#baseurl: http://www.cs.rpi.edu/~acm-w/
 
 title: RPI ACM-W
 #tagline: 'RPI's group for Women in Computing'
