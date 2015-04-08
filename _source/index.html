@@ -4,13 +4,12 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">This Semester</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
+    {% for post in site.posts reversed %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y &ndash; %I:%M %p" }} &ndash; {{ post.loc }}</span>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
