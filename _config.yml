@@ -5,7 +5,7 @@ redcarpet:
 highlighter: pygments
 
 # Premalinks
-permalink: pretty
+permalink: none
 
 future: TRUE
 
@@ -28,5 +28,5 @@ title: RPI ACM-W
 # github:
 #   repo: https://github.com/RPI-ACM-W
 
-# # Exclude Files
-# exclude: ['README.md']
+# Exclude Files
+exclude: ['_posts/template.md']
