@@ -5,23 +5,21 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 08 Apr 2015 14:57:27 -0400</pubDate>
-    <lastBuildDate>Wed, 08 Apr 2015 14:57:27 -0400</lastBuildDate>
+    <pubDate>Thu, 09 Apr 2015 12:10:39 -0400</pubDate>
+    <lastBuildDate>Thu, 09 Apr 2015 12:10:39 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Info Session: Grace Hopper Celebration of Women in Computing Conference</title>
-        <description>&lt;h3 id=&quot;where:-tbd&quot;&gt;Where: TBD&lt;/h3&gt;
-
-&lt;h3 id=&quot;when:-april-7,-2015-6pm&quot;&gt;When: April 7, 2015 6pm&lt;/h3&gt;
-
-&lt;p&gt;Learn more about the Grace Hopper Celebration of Women in Computing Conference.
+        <description>&lt;p&gt;Learn more about the Grace Hopper Celebration of Women in Computing Conference.
 This year it is happening October 14-16 in Houston, TX.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 07 Apr 2015 18:00:00 -0400</pubDate>
-        <link>/2015/04/07/ghc-info/</link>
-        <guid isPermaLink="true">/2015/04/07/ghc-info/</guid>
+        <pubDate>Tue, 07 Apr 2015 00:00:00 -0400</pubDate>
+        <link>/spring%202015/ghc-info.html</link>
+        <guid isPermaLink="true">/spring%202015/ghc-info.html</guid>
         
+        
+        <category>spring 2015</category>
         
       </item>
     
@@ -30,10 +28,12 @@ This year it is happening October 14-16 in Houston, TX.&lt;/p&gt;
         <description>&lt;p&gt;Join us as we discuss career options after gradate school.
 We will be joined by Professor Fran Berman and Professor Stacy Patterson.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 31 Mar 2015 17:30:00 -0400</pubDate>
-        <link>/2015/03/31/informal-chat/</link>
-        <guid isPermaLink="true">/2015/03/31/informal-chat/</guid>
+        <pubDate>Tue, 31 Mar 2015 00:00:00 -0400</pubDate>
+        <link>/spring%202015/informal-chat.html</link>
+        <guid isPermaLink="true">/spring%202015/informal-chat.html</guid>
         
+        
+        <category>spring 2015</category>
         
       </item>
     
