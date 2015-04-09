@@ -4,19 +4,23 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">This Semester</h1>
+  
 
+  {% for category in site.categories %}
+  <h1 class="page-heading">{{ category | first }}</h1>
+  {% for posts in category %}
   <ul class="post-list">
-    {% for post in site.posts reversed %}
+    {% for post in posts reversed | remove_first %}
     <li>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y &ndash; %I:%M %p" }} &ndash; {{ post.loc }}</span>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} &ndash; {{ post.time | date: "%I:%M %p" }} &ndash; {{ post.loc }}</span>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
       </li>
     {% endfor %}
   </ul>
-
+  {% endfor %}
+  {% endfor %}
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
