@@ -9,6 +9,8 @@ date:   2000-01-01 23:00
 
 loc:    TBD
 # location of event
+
+category: fall-15
 ---
 
 # Sample Header!
