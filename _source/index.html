@@ -10,13 +10,25 @@ layout: default
   <h1 class="page-heading">{{ category | first }}</h1>
   {% for posts in category %}
   <ul class="post-list">
-    {% for post in posts reversed | remove_first %}
+    {% for post in posts reversed %}
+    {% if post.url %}
     <li>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} &ndash; {{ post.time | date: "%I:%M %p" }} &ndash; {{ post.loc }}</span>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}
+        {% if post.time %}
+        &ndash; {{ post.time | date: "%I:%M %p" }}
+        {% endif %}
+        {% if post.loc %}
+        &ndash; {{ post.loc }}</span>
+        {% endif %}
+      <h2>
+        {% if post.link %}
+        <a class="direct-link" href="{{ post.link }}">{{ post.title }}</a>
+        {% else %}
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        {% endif %}
+      </h2>
+    </li>
+    {% endif %}
     {% endfor %}
   </ul>
   {% endfor %}
