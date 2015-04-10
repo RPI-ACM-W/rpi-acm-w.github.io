@@ -18,8 +18,9 @@ layout: default
         &ndash; {{ post.time | date: "%I:%M %p" }}
         {% endif %}
         {% if post.loc %}
-        &ndash; {{ post.loc }}</span>
+        &ndash; {{ post.loc }}
         {% endif %}
+        </span>
       <h2>
         {% if post.link %}
         <a class="direct-link" href="{{ post.link }}">{{ post.title }}</a>
