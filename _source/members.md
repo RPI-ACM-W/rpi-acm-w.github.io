@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Members
-permalink: /members/
 ---
 
 {% for org_hash in site.data.orgs | sort: 'name' %}

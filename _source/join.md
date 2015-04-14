@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Join Us
-permalink: /join/
 ---
 
 To become a member of The Rensselaer Polytechnic Institute Student Chapter of the Association for Computing Machinery for Women, you must register as a member of the nationally recognized Association For Computing Machinery Organization.
