@@ -13,7 +13,7 @@ source: _source/
 baseurl: http://www.cs.rpi.edu/~acm-w/
 
 title: RPI ACM-W
-#tagline: 'RPI's group for Women in Computing'
+tagline: "RPI's group for Women in Computing"
 # description: 'RPI's Chapter of the ACM-W'
 
 # author:
@@ -25,8 +25,8 @@ title: RPI ACM-W
 
 # # Sidebar Vars
 # #version: 1.0
-# github:
-#   repo: https://github.com/RPI-ACM-W
+github:
+  repo: https://github.com/RPI-ACM-W/rpi-acm-w.github.io
 
 # Exclude Files
 exclude: ['_posts/template.md']
