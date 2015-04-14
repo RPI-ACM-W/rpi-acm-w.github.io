@@ -23,7 +23,7 @@ title: Home
         {% if post.link %}
         <a class="direct-link" href="{{ post.link }}">{{ post.title }}</a>
         {% else %}
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
         {% endif %}
       </h2>
     </li>
