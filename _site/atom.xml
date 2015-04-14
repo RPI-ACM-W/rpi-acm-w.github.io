@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>RPI ACM-W</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2015-04-14T15:44:45-04:00</updated>
+ <id></id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Valerie Barr (ACM-W president)</title>
+   <link href="/spring%202015/valerie-barr.html"/>
+   <updated>2015-05-06T00:00:00-04:00</updated>
+   <id>/spring%202015/valerie-barr</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Facebook CTO, Mike Schroepfer, vists Data and Society</title>
+   <link href="/spring%202015/mike-schroepfer-vist.html"/>
+   <updated>2015-04-24T00:00:00-04:00</updated>
+   <id>/spring%202015/mike-schroepfer-vist</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>NYCWic Conference in Syracuse, NY</title>
+   <link href="/spring%202015/nycwi-conf.html"/>
+   <updated>2015-04-17T00:00:00-04:00</updated>
+   <id>/spring%202015/nycwi-conf</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>GHC Scholarship Grant Application Closes</title>
+   <link href="/spring%202015/gdb-scholarship-deadline.html"/>
+   <updated>2015-04-15T00:00:00-04:00</updated>
+   <id>/spring%202015/gdb-scholarship-deadline</id>
+   <content type="html">&lt;p&gt;Find out more &lt;a href=&quot;http://anitaborg.org/awards-grants/ghc-scholarship-grants/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Accepted Students Day Activity Fair</title>
+   <link href="/spring%202015/accpeted-students-day.html"/>
+   <updated>2015-04-11T00:00:00-04:00</updated>
+   <id>/spring%202015/accpeted-students-day</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Info Session: Grace Hopper Celebration of Women in Computing Conference</title>
+   <link href="/spring%202015/ghc-info.html"/>
+   <updated>2015-04-07T00:00:00-04:00</updated>
+   <id>/spring%202015/ghc-info</id>
+   <content type="html">&lt;p&gt;Learn more about the Grace Hopper Celebration of Women in Computing Conference.
+This year it is happening October 14-16 in Houston, TX.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Informal Chat: Life After Graduate Studies</title>
+   <link href="/spring%202015/informal-chat.html"/>
+   <updated>2015-03-31T00:00:00-04:00</updated>
+   <id>/spring%202015/informal-chat</id>
+   <content type="html">&lt;p&gt;Join us as we discuss career options after gradate school.
+We will be joined by Professor Fran Berman and Professor Stacy Patterson.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
