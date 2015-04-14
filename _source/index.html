@@ -1,11 +1,9 @@
 ---
 layout: default
+title: Home
 ---
 
-<div class="home">
-
-  
-
+<div class="posts">
   {% for category in site.categories %}
   <h1 class="page-heading">{{ category | first }}</h1>
   {% for posts in category %}
@@ -35,5 +33,21 @@ layout: default
   {% endfor %}
   {% endfor %}
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+</div>
 
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
 </div>
