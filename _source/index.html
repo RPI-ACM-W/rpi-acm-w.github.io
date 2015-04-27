@@ -11,14 +11,6 @@ title: Home
     {% for post in posts reversed %}
     {% if post.url %}
     <li>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}
-        {% if post.time %}
-        &ndash; {{ post.time | date: "%I:%M %p" }}
-        {% endif %}
-        {% if post.loc %}
-        &ndash; {{ post.loc }}
-        {% endif %}
-        </span>
       <h2>
         {% if post.link %}
         <a class="direct-link" href="{{ post.link }}">{{ post.title }}</a>
@@ -26,6 +18,20 @@ title: Home
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         {% endif %}
       </h2>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}
+        {% if post.time %}
+        &ndash; {{ post.time | date: "%I:%M %p" }}
+        {% endif %}
+        {% if post.loc %}
+        &ndash; {{ post.loc }}
+        {% endif %}
+      </span>
+      <p>
+        {% if post.link %}
+        {% else %}
+        {{ post.content | truncatewords:35 }}
+        {% endif %}
+      </p>
     </li>
     {% endif %}
     {% endfor %}
