@@ -30,6 +30,7 @@ title: Home
         {% if post.link %}
         {% else %}
         {{ post.content | truncatewords:35 }}
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read more</a>
         {% endif %}
       </p>
     </li>
