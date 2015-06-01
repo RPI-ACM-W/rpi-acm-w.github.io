@@ -12,7 +12,7 @@ future: TRUE
 source: _source/
 
 ## Use '/' for development; cs server for deployment
-#baseurl: /
+#baseurl: http://0.0.0.0:4000
 baseurl: http://www.cs.rpi.edu/~acm-w/
 
 title: RPI ACM-W
