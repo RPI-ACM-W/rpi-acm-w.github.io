@@ -189,11 +189,10 @@
     font-size: 24px;
 }
 
-.direct-link {
-    &:before {
+.direct-link:after {
        content: '\27BC';
-       margin: 0 .5em 0 -1.5em;
-    }       
+       display: inline-block;
+       margin: 0 .5em 0 1.5em;
 }
 
 /**
