@@ -8,7 +8,7 @@ title: Home
   <h1 class="page-heading">{{ category | first }}</h1>
   {% for posts in category %}
   <ul class="post-list">
-    {% for post in posts reversed %}
+    {% for post in posts %}
     {% if post.url %}
     <li>
       <h2>
