@@ -378,12 +378,15 @@ tbody tr:nth-child(odd) th {
   color: inherit;
 }
 
+ul {
+    list-style-type: none;
+}
+
 .direct-link:before {
     content: '\27BC';
     display: inline-block;
-    margin: 0;
+    margin: 0 0 0 -1em;
 }
-
 
 /*
  * Pagination
