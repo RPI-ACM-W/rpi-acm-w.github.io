@@ -18,7 +18,7 @@ title: Home
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         {% endif %}
       </h2>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}
+      <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}
         {% if post.time %}
         &ndash; {{ post.time | date: "%I:%M %p" }}
         {% endif %}
