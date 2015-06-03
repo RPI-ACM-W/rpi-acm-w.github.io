@@ -11,6 +11,10 @@ future: TRUE
 
 source: _source/
 
+## SEMESTER ORDERING
+## change this to update the Events page
+category-list: ["summer 2015", "spring 2015"]
+
 ## Use this for development with blank --baseurl= flag
 ## `bundle exec jekyll serve -w --baseurl=`
 #baseurl: http://0.0.0.0:4000/
