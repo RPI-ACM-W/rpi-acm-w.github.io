@@ -10,7 +10,7 @@ title: Home
   {% for post in site.tags.announcement %}
   <div class="post">
     <h3 class="post-title">
-      <a href="{{ post.url }}">
+      <a href="{{ post.url | prepend: site.baseurl }}">
         {{ post.title }}
       </a>
     </h3>
