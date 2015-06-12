@@ -13,8 +13,10 @@ title: Events
       <h2>
         {% if post.link %}
         <a class="direct-link" href="{{ post.link }}">{{ post.title }}</a>
-        {% else %}
+        {% elsif post.content.size > 2 %}
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        {% else %}
+        {{ post.title }}
         {% endif %}
       </h2>
       <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}
