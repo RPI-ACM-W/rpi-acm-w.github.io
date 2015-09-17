@@ -11,7 +11,7 @@ The ACM-W chapter at RPI is proud to be supported by:
 We are always looking for more ways to support the women in our community.
 If you are interested in working with us please contact Sarabeth Jaffe at jaffes2[at]rpi.edu.
 
-![GHC 2014 After Party](images/ghc2013/ghc20132.jpg)
+![GHC 2013 After Party](images/ghc2013/ghc20132.jpg)
 <p class="caption">
-GHC 2014 After Party.
+GHC 2013 After Party.
 </p>
