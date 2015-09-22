@@ -8,7 +8,7 @@ To become a member of The Rensselaer Polytechnic Institute Student Chapter of th
 Student registration can be done [here](https://campus.acm.org/public/qj/quickjoin/qj_control.cfm?promo=PWEBTOP&form_type=Student).
 ACM Membership dues for students are $19/year*.
 
-Once you have registered, please send the following information to Erica Braunschweig at braune[at]rpi.edu.
+Once you have registered, please send the following information to Amy Zheng at zhengz3[at]rpi.edu
 
 - Name
 - ACM Membership Number
@@ -20,7 +20,7 @@ Once you have registered, please send the following information to Erica Braunsc
 
 Becoming part of the RPI Chapter of ACM-W provides many benefits, some of which include exclusive networking opportunities and conference sponsorship.
 
-*If you are in need of financial assistance to pay official ACM-W membership fees please contact Erica Braunschweig (braune[at]rpi.edu).
+*If you are in need of financial assistance to pay official ACM-W membership fees please contact Amy Zheng (zhengz3[at]rpi.edu)
 Please include a paragraph that describes your interest in joining the chapter; how you might contribute to the chapter; and what Computer Science means to you.
 
 ![Lunch with Colin Bodel, CTO of Time, INC](images/Colin-Bodel-lunch.jpeg)
