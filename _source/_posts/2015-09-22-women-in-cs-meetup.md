@@ -17,4 +17,3 @@ Hosted by ACM-W and the CS Club! There will be fresh baked cookies!
 
 RSVP Here: https://sarabethjaffe.typeform.com/to/j7d8v9
 
-Learn more about ACM-W here: www.cs.rpi.edu/~acm-w/
