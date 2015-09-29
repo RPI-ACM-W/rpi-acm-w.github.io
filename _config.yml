@@ -20,7 +20,7 @@ category-list: ["fall 2015", "summer 2015", "spring 2015"]
 #baseurl: http://0.0.0.0:4000/
 
 ## Use this for deployment
-baseurl: ~acm-w/
+baseurl: http://acmw.rpi.edu
 
 title: RPI ACM-W
 tagline: "RPI's group for Women in Computing"
