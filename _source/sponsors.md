@@ -4,6 +4,10 @@ title: Sponsors
 ---
 
 The ACM-W chapter at RPI is proud to be supported by:
+
+- AQR
+- Google
+- RedHat
 - [The NCWIT Student Seed Fund gift sponsored by Symantec](http://www.cs.rpi.edu/~acm-w/summer%202015/ncwit-student-seed-fund.html)
 - [Professor Petros Drineas](http://www.cs.rpi.edu/~drinep/)
 - [Professor Stacy Patterson](http://www.cs.rpi.edu/~pattes3/)
