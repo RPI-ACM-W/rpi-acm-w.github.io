@@ -4,7 +4,7 @@
  <title>RPI ACM-W</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2015-09-29T10:54:29-04:00</updated>
+ <updated>2015-09-30T11:36:22-04:00</updated>
  <id></id>
  <author>
    <name></name>
@@ -13,9 +13,21 @@
 
  
  <entry>
+   <title>General Body Meeting</title>
+   <link href="/fall%202015/general-body-meeting.html"/>
+   <updated>2015-10-01T00:00:00-04:00</updated>
+   <id>/fall%202015/general-body-meeting</id>
+   <content type="html">&lt;p&gt;Our first official general body meeting will be held in conjunction with the weekly Women in CS Cookies and Study/Office Hours/Nerd Talk/Some-of-us knit/crochet/craft/draw meeting held by Professor Cutler and PRofessor Patterson.
+Join us Thursday at 7pm in Lally 104.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;#39;d like to join us in the #ILookLikeAnEngineer campaign make sure to be ready to take a picture!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Women In CS Meetup</title>
    <link href="/fall%202015/women-in-cs-meetup.html"/>
-   <updated>2015-09-22T20:00:00-22:00</updated>
+   <updated>2015-09-22T00:00:00-04:00</updated>
    <id>/fall%202015/women-in-cs-meetup</id>
    <content type="html">&lt;p&gt;Are you considering Computer Science as a major, minor, or dual degree?&lt;/p&gt;
 
