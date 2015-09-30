@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Women In CS Meetup"
-date:   2015-09-22 20:00-22:00
+date:   2015-09-22
+time:   20:00-22:00
 loc:    "Union 3602"
 category: "fall 2015"
-tag: announcement
 ---
 
 Are you considering Computer Science as a major, minor, or dual degree?
