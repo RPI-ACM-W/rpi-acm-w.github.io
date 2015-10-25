@@ -4,13 +4,34 @@
  <title>RPI ACM-W</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2015-10-01T14:54:44-04:00</updated>
+ <updated>2015-10-25T19:48:17-04:00</updated>
  <id></id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>General Body Meeting</title>
+   <link href="/fall%202015/general-body-meeting.html"/>
+   <updated>2015-11-05T00:00:00-05:00</updated>
+   <id>/fall%202015/general-body-meeting</id>
+   <content type="html">&lt;p&gt;Join us on November 5th at 7pm in Lally 104 for our second general body meeting of the semester.
+We will also be holding an informal tech talk on a topic of your choice!
+Vote &lt;a href=&quot;http://goo.gl/forms/UZhirf5qe7&quot;&gt;here&lt;/a&gt; then join us Thursday!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Grace Hopper Review</title>
+   <link href="/fall%202015/post-GHC.html"/>
+   <updated>2015-10-27T00:00:00-04:00</updated>
+   <id>/fall%202015/post-GHC</id>
+   <content type="html">&lt;p&gt;Join us Tuesday in Union 3510 to discuss our most recent trip to the Grace Hopper Celebration.
+This year we sent over twenty members of our ACM-W chapter.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>General Body Meeting</title>
