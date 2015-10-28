@@ -8,5 +8,5 @@ category: "fall 2015"
 ---
 
 Join us on November 5th at 7pm in Lally 104 for our second general body meeting of the semester.
-We will also be holding an informal tech talk on a topic of your choice!
-Vote [here](http://goo.gl/forms/UZhirf5qe7) then join us Thursday!
+We will also be holding an informal tech talk on UNIX Command Line Tools.
+Make sure you bring your laptop (please have cygwin installed if you're using Windows)!
