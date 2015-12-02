@@ -4,13 +4,23 @@
  <title>RPI ACM-W</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2015-10-29T11:32:09-04:00</updated>
+ <updated>2015-12-02T17:11:52-05:00</updated>
  <id></id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Elections</title>
+   <link href="/fall%202015/elections.html"/>
+   <updated>2015-12-03T00:00:00-05:00</updated>
+   <id>/fall%202015/elections</id>
+   <content type="html">&lt;p&gt;ACM-W is holding our annual elections on December 5th at 7pm in Lally 104.
+All members should attend and place their vote for next year.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>General Body Meeting</title>
