@@ -13,7 +13,7 @@ source: _source/
 
 ## SEMESTER ORDERING
 ## change this to update the Events page
-category-list: ["fall 2015", "summer 2015", "spring 2015"]
+category-list: ["spring 2016", "fall 2015", "summer 2015", "spring 2015"]
 
 ## Use this for development with blank --baseurl= flag
 ## `bundle exec jekyll serve -w --baseurl=`
