@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "We've Been Awarded a NCWIT Amplification Award!"
-date:   2015-06-03 00:00
+date:   2016-01-30
 category: "spring 2016"
 tag: announcement
 ---
