@@ -4,7 +4,7 @@
  <title>RPI ACM-W</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2016-02-08T12:13:00-05:00</updated>
+ <updated>2016-02-08T14:22:03-05:00</updated>
  <id></id>
  <author>
    <name></name>
@@ -17,7 +17,8 @@
    <link href="/spring%202016/diversity-hackathon.html"/>
    <updated>2016-05-16T00:00:00-04:00</updated>
    <id>/spring%202016/diversity-hackathon</id>
-   <content type="html"></content>
+   <content type="html">
+</content>
  </entry>
  
  <entry>
@@ -26,7 +27,7 @@
    <updated>2016-04-08T00:00:00-04:00</updated>
    <id>/spring%202016/nycwic-conf-16</id>
    <content type="html">&lt;p&gt;Join women from across New York State as we come together for a two day conference for women in tech.
-Visit the site for more information: &lt;a href=&quot;http://nycwic.acm.org&quot;&gt;http://nycwic.acm.org&lt;/a&gt;&lt;/p&gt;
+Visit the site for more information: http://nycwic.acm.org&lt;/p&gt;
 </content>
  </entry>
  
@@ -44,7 +45,8 @@ Visit the site for more information: &lt;a href=&quot;http://nycwic.acm.org&quot
    <link href="/spring%202016/athenahealth.html"/>
    <updated>2016-02-23T00:00:00-05:00</updated>
    <id>/spring%202016/athenahealth</id>
-   <content type="html"></content>
+   <content type="html">
+</content>
  </entry>
  
  <entry>
@@ -56,14 +58,6 @@ Visit the site for more information: &lt;a href=&quot;http://nycwic.acm.org&quot
 We will discuss upcoming events and Caitlin will give a brief introduction about Git.
 Hope you see you all there!&lt;/p&gt;
 </content>
- </entry>
- 
- <entry>
-   <title>Talk from LinkedIn</title>
-   <link href="/spring%202016/linkdin.html"/>
-   <updated>2016-02-08T00:00:00-05:00</updated>
-   <id>/spring%202016/linkdin</id>
-   <content type="html"></content>
  </entry>
  
  <entry>
@@ -91,10 +85,10 @@ Their dedication to improving diversity as another means of providing a first ra
    <updated>2015-12-08T00:00:00-05:00</updated>
    <id>/fall%202015/amazon-robotics-talk</id>
    <content type="html">&lt;p&gt;Ever wonder how Amazon can process your order, find your item, and get it to your doorstep so quickly?
-Come learn about the algorithms and technologies behind Amazon&amp;#39;s fulfillment centers with Amazon Robotics!&lt;/p&gt;
+Come learn about the algorithms and technologies behind Amazon’s fulfillment centers with Amazon Robotics!&lt;/p&gt;
 
 &lt;p&gt;Amazon Robotics automates fulfilment center operations using robotic technology including autonomous mobile robots, sophisticated control software, language perception, power management, computer vision, depth sensing, machine learning, object recognition, and semantic understanding of commands.
-&lt;a href=&quot;https://www.amazonrobotics.com/#/&quot;&gt;https://www.amazonrobotics.com/#/&lt;/a&gt;&lt;/p&gt;
+https://www.amazonrobotics.com/#/&lt;/p&gt;
 
 &lt;p&gt;Food will be provided. For the latest details, check our &lt;a href=&quot;https://www.facebook.com/events/714860261981879/&quot;&gt;Facebook Event&lt;/a&gt;.&lt;/p&gt;
 </content>
@@ -117,7 +111,7 @@ All members should attend and place their vote for next year.&lt;/p&gt;
    <id>/fall%202015/general-body-meeting2</id>
    <content type="html">&lt;p&gt;Join us on November 5th at 7pm in Lally 104 for our second general body meeting of the semester.
 We will also be holding an informal tech talk on UNIX Command Line Tools.
-Make sure you bring your laptop (please have cygwin installed if you&amp;#39;re using Windows)!&lt;/p&gt;
+Make sure you bring your laptop (please have cygwin installed if you’re using Windows)!&lt;/p&gt;
 </content>
  </entry>
  
@@ -139,7 +133,7 @@ This year we sent over twenty members of our ACM-W chapter.&lt;/p&gt;
    <content type="html">&lt;p&gt;Our first official general body meeting will be held in conjunction with the weekly Women in CS Cookies and Study/Office Hours/Nerd Talk/Some-of-us knit/crochet/craft/draw meeting held by Professor Cutler and PRofessor Patterson.
 Join us Thursday at 7pm in Lally 104.&lt;/p&gt;
 
-&lt;p&gt;If you&amp;#39;d like to join us in the #ILookLikeAnEngineer campaign make sure to be ready to take a picture!&lt;/p&gt;
+&lt;p&gt;If you’d like to join us in the #ILookLikeAnEngineer campaign make sure to be ready to take a picture!&lt;/p&gt;
 </content>
  </entry>
  
@@ -156,7 +150,8 @@ Join us Thursday at 7pm in Lally 104.&lt;/p&gt;
 
 &lt;p&gt;Hosted by ACM-W and the CS Club! There will be fresh baked cookies!&lt;/p&gt;
 
-&lt;p&gt;RSVP Here: &lt;a href=&quot;https://sarabethjaffe.typeform.com/to/j7d8v9&quot;&gt;https://sarabethjaffe.typeform.com/to/j7d8v9&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;RSVP Here: https://sarabethjaffe.typeform.com/to/j7d8v9&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -169,7 +164,7 @@ Join us Thursday at 7pm in Lally 104.&lt;/p&gt;
 We’ve been selected by NCWIT to receive the NCWIT Student Seed Fund gift sponsored by Symantec.
 This gift is a $1,000 grant which will go towards sending our members to NYCWiC 2016.&lt;/p&gt;
 
-&lt;p&gt;See &lt;a href=&quot;http://news.rpi.edu/content/2015/06/03/association-computing-machinery%E2%80%99s-women-computing-awarded-grant&quot;&gt;RPI&amp;#39;s announcement here&lt;/a&gt; and the &lt;a href=&quot;https://www.ncwit.org/programs-campaigns/ncwit-awards/ncwit-student-seed-fund&quot;&gt;NCWIT press release here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;See &lt;a href=&quot;http://news.rpi.edu/content/2015/06/03/association-computing-machinery’s-women-computing-awarded-grant&quot;&gt;RPI’s announcement here&lt;/a&gt; and the &lt;a href=&quot;https://www.ncwit.org/programs-campaigns/ncwit-awards/ncwit-student-seed-fund&quot;&gt;NCWIT press release here&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
@@ -178,7 +173,8 @@ This gift is a $1,000 grant which will go towards sending our members to NYCWiC 
    <link href="/spring%202015/valerie-barr.html"/>
    <updated>2015-05-06T00:00:00-04:00</updated>
    <id>/spring%202015/valerie-barr</id>
-   <content type="html"></content>
+   <content type="html">
+</content>
  </entry>
  
  <entry>
@@ -206,7 +202,8 @@ Additionally, you may amaze the NYISO team who I am told has a wonderful interns
    <link href="/spring%202015/mike-schroepfer-vist.html"/>
    <updated>2015-04-24T00:00:00-04:00</updated>
    <id>/spring%202015/mike-schroepfer-vist</id>
-   <content type="html"></content>
+   <content type="html">
+</content>
  </entry>
  
  <entry>
@@ -214,7 +211,8 @@ Additionally, you may amaze the NYISO team who I am told has a wonderful interns
    <link href="/spring%202015/nycwi-conf.html"/>
    <updated>2015-04-17T00:00:00-04:00</updated>
    <id>/spring%202015/nycwi-conf</id>
-   <content type="html"></content>
+   <content type="html">
+</content>
  </entry>
  
  <entry>
@@ -231,7 +229,8 @@ Additionally, you may amaze the NYISO team who I am told has a wonderful interns
    <link href="/spring%202015/accpeted-students-day.html"/>
    <updated>2015-04-11T00:00:00-04:00</updated>
    <id>/spring%202015/accpeted-students-day</id>
-   <content type="html"></content>
+   <content type="html">
+</content>
  </entry>
  
  <entry>
@@ -241,6 +240,7 @@ Additionally, you may amaze the NYISO team who I am told has a wonderful interns
    <id>/spring%202015/ghc-info</id>
    <content type="html">&lt;p&gt;Learn more about the Grace Hopper Celebration of Women in Computing Conference.
 This year it is happening October 14-16 in Houston, TX.&lt;/p&gt;
+
 </content>
  </entry>
  
