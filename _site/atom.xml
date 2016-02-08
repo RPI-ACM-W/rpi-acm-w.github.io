@@ -4,7 +4,7 @@
  <title>RPI ACM-W</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2016-02-01T18:39:30-05:00</updated>
+ <updated>2016-02-07T19:25:44-05:00</updated>
  <id></id>
  <author>
    <name></name>
@@ -45,6 +45,17 @@ Visit the site for more information: &lt;a href=&quot;http://nycwic.acm.org&quot
    <updated>2016-02-23T00:00:00-05:00</updated>
    <id>/spring%202016/athenahealth</id>
    <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>GBM: Git with Caitlyn</title>
+   <link href="/spring%202016/gbm-caitlin-git.html"/>
+   <updated>2016-02-11T00:00:00-05:00</updated>
+   <id>/spring%202016/gbm-caitlin-git</id>
+   <content type="html">&lt;p&gt;We will be having a general body meeting this Thursday February 11 from 6-7 in Lally 104.
+We will discuss upcoming events and Caitlin will give a brief introduction about Git.
+Hope you see you all there!&lt;/p&gt;
+</content>
  </entry>
  
  <entry>
