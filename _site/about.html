@@ -1,116 +1,92 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<html lang="en">
 
-  <head>
-  <link href="http://gmpg.org/xfn/11" rel="profile">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <!-- Enable responsiveness on mobile devices-->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <title>About ACMW @ RPI</title>
 
-  <title>
-    
-      About &middot; RPI ACM-W
-    
-  </title>
-
-  <!-- CSS -->
-  <link rel="stylesheet" href="http://acmw.rpi.edu/public/css/poole.css">
-  <link rel="stylesheet" href="http://acmw.rpi.edu/public/css/syntax.css">
-  <link rel="stylesheet" href="http://acmw.rpi.edu/public/css/hyde.css">
-  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
-
-  <!-- Icons -->
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://acmw.rpi.edu/public/apple-touch-icon-144-precomposed.png">
-                                 <link rel="shortcut icon" href="http://acmw.rpi.edu/public/favicon.ico">
+    <!-- Stylesheets and Font ***************************************************************************************-->
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,600' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="setup_files/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="setup_files/css/website.css">
 
 </head>
 
+<body class="container-fluid">
 
-  <body class="theme-base-0d">
+    <!-- The navigation bar will dynamically load into this section-->
+    <section id="loadNavBar"></section>
 
-    <div class="sidebar">
-  <div class="container sidebar-sticky">
-    <div class="sidebar-about">
-      <h1>
-        <a href="http://acmw.rpi.edu">
-          RPI ACM-W
-        </a>
-      </h1>
-      <p class="lead"></p>
-    </div>
+    <!--
+    <section class="buttonNavBar">
+        <div class="btn-group">
+            <button type="button" class="btn btn-primary" onclick="window.location.hash='aboutUs';">About Us</button>
+            <button type="button" class="btn btn-primary">Constitution</button>
+            <button type="button" class="btn btn-primary">Student Leadership</button>
+            <button type="button" class="btn btn-primary">Student Members</button>
+        </div>
+    </section>
+    -->
 
-    <nav class="sidebar-nav">
-      <a class="sidebar-nav-item" href="http://acmw.rpi.edu">Home</a>
+    <section class="mainPageContent">
 
-      
+        <!-- Side navigation bar ****************************************************************************************-->
+        <section class="sideNavBar">
+            <ul class="nav nav-pills nav-stacked">
+                <li role="presentation" class="active" id="aboutUsB"><a href="#">About Us</a></li>
+                <li role="presentation" class="nonactive" id="studentLeadersB"><a href="#">Student Leadership</a></li>
+                <li role="presentation" class="nonactive" id="facultyLeadersB"><a href="#">Faculty Leadership</a></li>
+                <li role="presentation" class="nonactive" id="constitutionB"><a href="#">Constitution</a></li>
+            </ul>
+        </section>
 
-      
-      
-        
-          
-            <a class="sidebar-nav-item active" href="http://acmw.rpi.edu/about.html">About</a>
-          
-        
-      
-        
-      
-        
-          
-            <a class="sidebar-nav-item" href="http://acmw.rpi.edu/events.html">Events</a>
-          
-        
-      
-        
-          
-        
-      
-        
-          
-            <a class="sidebar-nav-item" href="http://acmw.rpi.edu/join.html">Join Us</a>
-          
-        
-      
-        
-          
-            <a class="sidebar-nav-item" href="http://acmw.rpi.edu/members.html">Members</a>
-          
-        
-      
-        
-          
-        
-      
-        
-          
-            <a class="sidebar-nav-item" href="http://acmw.rpi.edu/sponsors.html">Sponsors</a>
-          
-        
-      
+        <section class="cardHolder">
+            <section class="panel panel-default infoCard" id="aboutUs">
+                    <section class="panel-heading">
+                        <h3 class="panel-title">About Us</h3>
+                    </section>
+                    <section class="panel-body">
+                        <p>ACM-W is the ACM committee on Women in Computing. It celebrates, informs and supports women in computing,
+                            and works with the ACM-W community of computer scientists, educators, employers and policy makers to improve
+                            working and learning environments for women.</p>
 
-      <a class="sidebar-nav-item" href="https://github.com/RPI-ACM-W/rpi-acm-w.github.io">GitHub project</a>
-    </nav>
+                        <p>The Rensselaer Polytechnic Institute Chapter of the Association for Computing Machinery’s Committee on Women
+                            in Computing strives to recruit, engage, and rejoice in the accomplishments of female computer scientists
+                            within the institute. By providing a variety of workshops, networking events, and career advancement opportunities,
+                            the chapter strives to create equal opportunity and diversification in CS-related fields.</p>
+                    </section>
+            </section>
 
-    <p>&copy; 2016. All rights reserved.</p>
-  </div>
-</div>
+            <section id="studentLeadership">
+                <!-- Student info cards with photos will load here.-->
+            </section>
+
+            <section id="facultyLeadership">
+                <!-- Faculty info cards with photos will load here. -->
+            </section>
+
+            <div id="acmwConstitution">
+                <object data="data_files/acmw_current_constitution.pdf" type="application/pdf" width="700" height="700">
+                    alt : <a href="data_files/acmw_current_constitution.pdf">ACMW Constitution</a>
+                </object>
+            </div>
+
+        </section>
 
 
-    <div class="content container">
-      <div class="page">
-  <h1 class="page-title">About</h1>
-  <p>ACM-W is the ACM committee on Women in Computing.
-It celebrates, informs and supports women in computing, and works with the ACM-W community of computer scientists, educators, employers and policy makers to improve working and learning environments for women.</p>
+    </section>
 
-<p>The Rensselaer Polytechnic Institute Chapter of the Association for Computing Machinery’s Committee on Women in Computing strives to recruit, engage, and rejoice in the accomplishments of female computer scientists within the institute.
-By providing a variety of workshops, networking events, and career advancement opportunities, the chapter strives to create equal opportunity and diversification in CS-related fields.</p>
+    <!-- The site footer will dynamically load into this section-->
+    <section id="loadFooter"></section>
 
-<p>Read our Constitution <a href="constitution.pdf">here</a>.</p>
+</body>
 
-</div>
+<!-- JavaScript and JQuery Imports **********************************************************************************-->
+<script type="text/javascript" src="setup_files/jquery-2.1.4.min.js"></script>
+<script type="text/javascript" src="setup_files/css/bootstrap.min.js"></script>
+<script type="text/javascript" src="setup_files/scripts/website.js"></script>
+<script type="text/javascript" src="setup_files/scripts/about.js"></script>
 
-    </div>
-
-  </body>
 </html>

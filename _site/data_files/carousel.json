@@ -1,0 +1,27 @@
+{"carouselData": [
+  {
+    "img_src": "setup_files/images/home_carousel/amazon_group_photo_W.jpg",
+    "alt_tag": "Amazon Robotics group photo",
+    "caption_header": "",
+    "caption_body": ""
+  },
+  {
+    "img_src": "setup_files/images/home_carousel/ghc_with_prof_W.jpg",
+    "alt_tag": "Grace Hopper Celebration students and professors",
+    "caption_header": "",
+    "caption_body": ""
+  },
+  {
+    "img_src": "setup_files/images/home_carousel/ghc_group_shot_W.jpg",
+    "alt_tag": "Grace Hopper Celebration group photo",
+    "caption_header": "",
+    "caption_body": ""
+  },
+  {
+    "img_src": "setup_files/images/home_carousel/ghc_table_two_W.jpg",
+    "alt_tag": "Grace Hopper Celebration students at table two",
+    "caption_header": "",
+    "caption_body": ""
+  }
+  ]
+}
