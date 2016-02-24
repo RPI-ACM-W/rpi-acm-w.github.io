@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eventsData>
+    <!-- =========================================================================================================== -->
+    <event>
+        <title>ACMW Distinguished Speaker Series: Morgan McKenney</title>
+        <date>
+            <month>3</month>
+            <day>1</day>
+            <year>2016</year>
+        </date>
+        <semester>Spring 2016</semester>
+        <time>
+            <start>4:00</start>
+            <startAMPM>PM</startAMPM>
+            <end>5:00</end>
+            <endAMPM>PM</endAMPM>
+        </time>
+        <location>TBD</location>
+        <description>
+            <paragraph>
+                Morgan McKenney is the global business head for cross-currency payments at Citi ensuring corporate, financial
+                institutions and public sector clients are able to make payments globally. Prior to this position she was the Chief
+                Operating Officer of Global Treasury and Trade Solutions at Citi. Morgan will be highlighting her path to success
+                as a woman in a technical field and sharing with us the potential future of digital currency.
+            </paragraph>
+            <paragraph>
+                We will be providing food and drinks. Once we have the location set, we will update the event information!
+            </paragraph>
+            <paragraph>
+
+            </paragraph>
+        </description>
+        <links>
+            <link>
+                <header>RSVP Here</header>
+                <url>https://docs.google.com/forms/d/18K65TObKB2cHhsRpLaUYM-7VDoY1ccUz061sfopoOnI/viewform</url>
+            </link>
+        </links>
+    </event>
+    <!-- =========================================================================================================== -->
+    <event>
+        <title>General Business Meeting</title>
+        <date>
+            <month>2</month>
+            <day>25</day>
+            <year>2016</year>
+        </date>
+        <semester>Spring 2016</semester>
+        <time>
+            <start>6:00</start>
+            <startAMPM>PM</startAMPM>
+            <end>7:00</end>
+            <endAMPM>PM</endAMPM>
+        </time>
+        <location>Lally 104</location>
+        <description>
+            This meeting is open to everyone, so if you don’t know what ACM-W is, you can come to the meeting to find out
+            who we are and what we do.  This week, we will be discussing our plans for the diversity hackathon that we are
+            hosting in April.  If you’re interested in volunteering to help at the hackathon, please come to this meeting to
+            get more information on how you can help out!
+        </description>
+    </event>
+    <!-- =========================================================================================================== -->
+
+</eventsData>

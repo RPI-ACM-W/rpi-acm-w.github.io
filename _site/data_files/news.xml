@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsData>
+
+    <!-- =========================================================================================================== -->
+    <news>
+        <title>We've Been Awarded a NCWIT Amplification Award!</title>
+        <date>
+            <month>January</month>
+            <day>30</day>
+            <year>2016</year>
+        </date>
+        <description>
+            <paragraph>
+                ACM-W @ RPI is excited to announce that we have been granted the National Center for Women amd Information
+                Technology (NCWIT) Amplification Award sponsored by Google.org! Valued at $5,000 dollars, the Amplification Award was
+                created for existing ACM-W chapters seeking to expand their impact though both new and existing opportunities within the campus
+                setting and the greater community.
+            </paragraph>
+
+            <paragraph>
+                With the grant, will be hosting a one-day Women in Tech Summit held on campus that will bring together ACM-W members and other
+                women in Computer Science throughout the Capital District Region. This summit will be modeled after the Grace Hopper Celebration
+                with emphasis on community creation. The summit will be an exciting place to learn, inspire, innovate and network so we hope to
+                see you there!
+            </paragraph>
+
+            <paragraph>
+                We are grateful to NCWIT and Google.org for graciously funding our summit. Without their financial support it would not be possible
+                to create this opportunity. Additionally, we are appreciative for the support provided to us via the Department of Computer Science
+                and our advisors Dr. Fran Berman and Dr. Sibel Adali. Their dedication to improving diversity as another means of providing a first
+                rate education and academic experience is unrelenting.
+            </paragraph>
+        </description>
+    </news>
+    <!-- =========================================================================================================== -->
+
+    <news>
+        <title>We've Been Awarded an NCWIT Student Seed Fund Gift!</title>
+        <date>
+            <month>June</month>
+            <day>03</day>
+            <year>2015</year>
+        </date>
+        <description>
+            <paragraph>
+                ACM-W @ RPI is proud to announce that we have been selected by NCWIT to receive the NCWIT Student Seed Fund gift, sponsored by Symantec.
+                This gift is a $1,000 grant which will go towards sending our members to NYCWiC 2016.
+            </paragraph>
+        </description>
+        <links>
+            <link>
+                <header>RPI's Announcement</header>
+                <url>http://news.rpi.edu/content/2015/06/03/association-computing-machinery%E2%80%99s-women-computing-awarded-grant</url>
+            </link>
+            <link>
+                <header>NCWIT Press Release</header>
+                <url>https://www.ncwit.org/programs-campaigns/ncwit-awards/ncwit-student-seed-fund</url>
+            </link>
+        </links>
+    </news>
+
+    <!-- =========================================================================================================== -->
+
+</newsData>

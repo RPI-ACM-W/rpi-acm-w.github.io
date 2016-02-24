@@ -1,149 +1,69 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<html lang="en">
 
-  <head>
-  <link href="http://gmpg.org/xfn/11" rel="profile">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <!-- Enable responsiveness on mobile devices-->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <title>ACMW @ RPI</title>
 
-  <title>
-    
-      RPI ACM-W &middot; RPI's group for Women in Computing
-    
-  </title>
-
-  <!-- CSS -->
-  <link rel="stylesheet" href="http://acmw.rpi.edu/public/css/poole.css">
-  <link rel="stylesheet" href="http://acmw.rpi.edu/public/css/syntax.css">
-  <link rel="stylesheet" href="http://acmw.rpi.edu/public/css/hyde.css">
-  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
-
-  <!-- Icons -->
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://acmw.rpi.edu/public/apple-touch-icon-144-precomposed.png">
-                                 <link rel="shortcut icon" href="http://acmw.rpi.edu/public/favicon.ico">
-
+    <!-- Stylesheets and Font ***************************************************************************************-->
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,600' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="setup_files/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="setup_files/css/website.css">
 </head>
 
+<body class="container-fluid">
+    <!-- The navigation bar will dynamically load into this section-->
+    <section id="loadNavBar"></section>
 
-  <body class="theme-base-0d">
+    <!-- Carousel of images *****************************************************************************************-->
+    <div id="homeCarousel" class="carousel slide" data-ride="carousel" data-interval="6200">
+        <!-- Indicators -->
+        <ol class="carousel-indicators" id="carouselIndicators">
+            <!-- Indicators will dynamically load here via homepage.js -->
+        </ol>
 
-    <div class="sidebar">
-  <div class="container sidebar-sticky">
-    <div class="sidebar-about">
-      <h1>
-        <a href="http://acmw.rpi.edu">
-          RPI ACM-W
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" id="carouselInner" role="listbox">
+            <!-- Images will dynamically load into carousel here via homepage.js -->
+        </div>
+
+        <!-- Left and right controls -->
+        <a class="left carousel-control" href="#homeCarousel" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
         </a>
-      </h1>
-      <p class="lead"></p>
+        <a class="right carousel-control" href="#homeCarousel" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
     </div>
 
-    <nav class="sidebar-nav">
-      <a class="sidebar-nav-item" href="http://acmw.rpi.edu">Home</a>
+    <section class="indexContentArea">
+        <!-- Top Toggle Buttons *************************************************************************************-->
+        <div class="btn-group toggleButtonGroup" role="group">
+            <button type="button" class="active btn btn-primary toggleButton" id="toggleButtonLeft">News</button>
+            <button type="button" class="btn btn-primary toggleButton" id="toggleButtonRight">Next Event</button>
+        </div>
 
-      
+        <!-- Section Containing News Panels *******************************************************************-->
+        <section id="announcements"></section>
 
-      
-      
-        
-          
-            <a class="sidebar-nav-item" href="http://acmw.rpi.edu/about.html">About</a>
-          
-        
-      
-        
-      
-        
-          
-            <a class="sidebar-nav-item" href="http://acmw.rpi.edu/events.html">Events</a>
-          
-        
-      
-        
-          
-        
-      
-        
-          
-            <a class="sidebar-nav-item" href="http://acmw.rpi.edu/join.html">Join Us</a>
-          
-        
-      
-        
-          
-            <a class="sidebar-nav-item" href="http://acmw.rpi.edu/members.html">Members</a>
-          
-        
-      
-        
-          
-        
-      
-        
-          
-            <a class="sidebar-nav-item" href="http://acmw.rpi.edu/sponsors.html">Sponsors</a>
-          
-        
-      
-
-      <a class="sidebar-nav-item" href="https://github.com/RPI-ACM-W/rpi-acm-w.github.io">GitHub project</a>
-    </nav>
-
-    <p>&copy; 2016. All rights reserved.</p>
-  </div>
-</div>
+        <!-- Section Containing Next Event Panel ********************************************************************-->
+        <section id="nextEvent"></section>
+    </section>
 
 
-    <div class="content container">
-        <img src="http://acmw.rpi.edu/images/ghc2014/cropped-womenincomputingheader.jpg" alt="Group at GHC 2014" style="width: 100%;"/>
-<div class="posts">
-  <h1 class="page-heading">Announcements</h1>
-  <p>We've had a very active semester this spring... but look for more throughout the summer and come next fall!</p>
-  <h2>Recent Events:</h2>
-  
-  <div class="post">
-    <h3 class="post-title">
-      <a href="http://acmw.rpi.edu/spring%202016/ncwit-amplification-award.html">
-        We've Been Awarded a NCWIT Amplification Award!
-      </a>
-    </h3>
-    <span class="post-date">30 Jan 2016</span>
-    <p>ACM-W @ RPI is excited to announce that we have been granted the National Center for Women &amp; Information Technology (NCWIT) Amplification Award sponsored by Google.org!
-Valued at $5,000 dollars, the Amplification Award was created for existing ACM-W chapters seeking to expand their impact though both new and existing opportunities within the campus setting and the greater community.</p>
+    <!-- The site footer will dynamically load into this section-->
+    <section id="loadFooter"></section>
 
-<p>With the grant, will be hosting a one-day Women in Tech Summit held on campus that will bring together ACM-W members and other women in Computer Science throughout the Capital District Region.
-This summit will be modeled after the Grace Hopper Celebration with emphasis on community creation.
-The summit will be an exciting place to learn, inspire, innovate and network so we hope to see you there!</p>
+</body>
 
-<p>We are grateful to NCWIT and Google.org for graciously funding our summit.
-Without their financial support it would not be possible to create this opportunity.
-Additionally, we are appreciative for the support provided to us via the Department of Computer Science and our advisors Dr. Fran Berman and Dr. Sibel Adali.
-Their dedication to improving diversity as another means of providing a first rate education and academic experience is unrelenting.</p>
+<!-- JavaScript and JQuery Imports **********************************************************************************-->
+<script type="text/javascript" src="setup_files/jquery-2.1.4.min.js"></script>
+<script type="text/javascript" src="setup_files/css/bootstrap.min.js"></script>
+<script type="text/javascript" src="setup_files/scripts/website.js"></script>
+<script type="text/javascript" src="setup_files/scripts/homepage.js"></script>
 
-  </div>
-  
-  <div class="post">
-    <h3 class="post-title">
-      <a href="http://acmw.rpi.edu/summer%202015/ncwit-student-seed-fund.html">
-        We've Been Awarded an NCWIT Student Seed Fund Gift!
-      </a>
-    </h3>
-    <span class="post-date">03 Jun 2015</span>
-    <p>Congratulations to RPI’s ACM-W and all of our supporters!
-We’ve been selected by NCWIT to receive the NCWIT Student Seed Fund gift sponsored by Symantec.
-This gift is a $1,000 grant which will go towards sending our members to NYCWiC 2016.</p>
-
-<p>See <a href="http://news.rpi.edu/content/2015/06/03/association-computing-machinery’s-women-computing-awarded-grant">RPI’s announcement here</a> and the <a href="https://www.ncwit.org/programs-campaigns/ncwit-awards/ncwit-student-seed-fund">NCWIT press release here</a>.</p>
-
-  </div>
-  
-</div>
-
-
-    </div>
-
-  </body>
 </html>

@@ -1,0 +1,37 @@
+{
+  "eventsData": [
+    {
+      "title": "ACMW Distinguished Speaker Series: Morgan McKenney",
+      "date": {"month": "3", "day": "1", "year": "2016" },
+      "semester": "Spring 2016",
+      "time": {"start": "4:00", "startAMPM": "PM", "end": "5:00", "endAMPM": "PM"},
+      "location": "TBD",
+      "description": "Morgan McKenney is the global business head for cross-currency payments at Citi ensuring corporate, financial institutions and public sector clients are able to make payments globally. Prior to this position she was the Chief Operating Officer of Global Treasury and Trade Solutions at Citi. Morgan will be highlighting her path to success as a woman in a technical field and sharing with us the potential future of digital currency.  We will be providing food and drinks. Once we have the location set, we will update the event information!",
+      "links": [
+        {"link": "http://www.git-scm.com/", "descriptor": "Git Homepage"}
+      ]
+    },
+    {
+      "title": "General Business Meeting",
+      "date": {"month": "2", "day": "25", "year": "2016" },
+      "semester": "Spring 2016",
+      "time": {"start": "6:00", "startAMPM": "PM", "end": "7:00", "endAMPM": "PM"},
+      "location": "Lally 104",
+      "description": "This meeting is open to everyone, so if you don’t know what ACM-W is, you can come to the meeting to find out who we are and what we do.  This week, we will be discussing our plans for the diversity hackathon that we are hosting in April.  If you’re interested in volunteering to help at the hackathon, please come to this meeting to get more information on how you can help out!",
+      "links": [
+        {"link": "http://www.git-scm.com/", "descriptor": "Git Homepage"}
+      ]
+    },
+    {
+      "title": "Google & ACMW Interview Prep Roundtable",
+      "date": {"month": "2", "day": "16", "year": "2016" },
+      "semester": "Spring 2016",
+      "time": {"start": "5:00", "startAMPM": "PM", "end": "7:00", "endAMPM": "PM"},
+      "location": "Bruggeman Conference Center, CBIS (Biotech Building)",
+      "description": "Curious what types of questions are asked in the Google technical interview? Interested in brushing up on your interview skills? Join Google engineers to receive tips, and feel free to bring your questions!",
+      "links": [
+        {"link": "http://www.google.com/about/careers/students/", "descriptor": "Google Student Jobs"}
+      ]
+    }
+  ]
+}
