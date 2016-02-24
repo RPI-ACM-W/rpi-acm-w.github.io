@@ -3,6 +3,29 @@
 
     <!-- =========================================================================================================== -->
     <news>
+        <title>Women in Tech Summit Planned For Spring</title>
+        <date>
+            <month>February</month>
+            <day>24</day>
+            <year>2016</year>
+        </date>
+        <description>
+            <paragraph>
+                The Rensselaer chapter of the Association for Computing Machinery’s Women in Computing (ACM-W) will host
+                a one-day “Women in Tech Summit” conference for women in computer science groups throughout the Capital Region.
+                The conference is supported through a $5,000 amplification award grant the group recently received from the
+                National Center for Women and Information Technology (NCWIT) Student Seed Fund.
+            </paragraph>
+        </description>
+        <links>
+            <link>
+                <header>Inside Rensselaer Article</header>
+                <url>http://www.insiderensselaer.com/women-in-tech-summit/</url>
+            </link>
+        </links>
+    </news>
+    <!-- =========================================================================================================== -->
+    <news>
         <title>We've Been Awarded a NCWIT Amplification Award!</title>
         <date>
             <month>January</month>
