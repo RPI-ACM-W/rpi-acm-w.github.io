@@ -41,5 +41,15 @@ constitutionB.click(function() {
     constitutionB.attr('class', 'active');
 });
 /* ================================================================================================================== */
+facultyLeadersB.click(function() {
+    aboutUs.hide();
+    studentLeaders.hide();
+    facultyLeaders.show();
+    constitution.hide();
 
+    aboutUsB.attr('class', 'nonactive');
+    studentLeadersB.attr('class', 'nonactive');
+    facultyLeadersB.attr('class', 'active');
+    constitutionB.attr('class', 'nonactive');
+});
 

@@ -75,19 +75,7 @@ hence all the min-height, vertical-align, and line-height stuff*/
     margin-right: 15px;
     margin-bottom: 15px;
 }
-/*
-.buttonNavBar {
-    position: fixed;
 
-    text-align: center;
-    font-size: 1.2em;
-
-
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 70px;
-}
-*/
 .btn-primary {
     font-size: 1.1em;
 }
@@ -169,6 +157,40 @@ hence all the min-height, vertical-align, and line-height stuff*/
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    overflow: auto;
+}
+
+#facultyLeadership {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+/* Formatting for Image Thumbnails -----------------------------------------------------------------------------------*/
+.imageThumbnail {
+    max-width: 235px;
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.headshot {
+    max-width: 225px;
+}
+
+@media (max-width: 480px) {
+    .imageThumbnail {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    .sideNavBar {
+        float: none;
+
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
 }
 
 
