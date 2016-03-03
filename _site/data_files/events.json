@@ -1,6 +1,17 @@
 {
   "eventsData": [
     {
+      "title": "NY Capital Hackathon for Inclusivity",
+      "date": {"month": "4", "day": "16", "year": "2016" },
+      "semester": "Spring 2016",
+      "time": {"start": "9:00", "startAMPM": "AM", "end": "3:30", "endAMPM": "PM the following day"},
+      "location": "RPI Campus - More Details To Come",
+      "description": "Rensselaer Polytechnic Institute’s inaugural women in tech summit, NYχ, will take place April 16 - 17th starting at 9:00am. We hope this event will bring together women in CS throughout the Capital District Region while also engaging them intellectually with the conference and a hackathon. You don’t need to be veteran hacker to participate! Any woman interested in programming, hackathons, or networking is highly encouraged to attend.",
+      "links": [
+        {"link": "http://www.git-scm.com/", "descriptor": "Git Homepage"}
+      ]
+    },
+    {
       "title": "ACMW Distinguished Speaker Series: Morgan McKenney",
       "date": {"month": "3", "day": "1", "year": "2016" },
       "semester": "Spring 2016",

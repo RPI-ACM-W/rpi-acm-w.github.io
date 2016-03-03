@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <newsData>
+    <!-- =========================================================================================================== -->
+    <news>
+        <title>Registration Now Open For NY Capital Hackathon for Inclusivity</title>
+        <date>
+            <month>March</month>
+            <day>2</day>
+            <year>2016</year>
+        </date>
+        <description>
+            <paragraph>
+                Rensselaer Polytechnic Institute’s inaugural women in tech summit, NYχ,will take place April 16 - 17th
+                starting at 9:00am. We hope this event will bring together women in CS throughout the Capital District Region
+                while also engaging them intellectually with the conference and a hackathon. You don’t need to be veteran
+                hacker to participate! Any woman interested in programming, hackathons, or networking is highly encouraged
+                to attend.
+            </paragraph>
+            <paragraph>
+                Who can attend: Do you identify as a woman (cis or trans) or genderqueer? Do you attend school in the
+                Capital Region? Do you love (or are interested in) tech? If you answered yes then you are more than
+                welcome to attend! All skill levels are encouraged to attend!
+            </paragraph>
+        </description>
+        <links>
+            <link>
+                <header>Register Here</header>
+                <url>https://form.jotform.com/60557575821159</url>
+            </link>
+            <link>
+                <header>Event Schedule</header>
+                <url>http://nychi.tech/schedule/</url>
+            </link>
 
+        </links>
+    </news>
     <!-- =========================================================================================================== -->
     <news>
         <title>Women in Tech Summit Planned For Spring</title>
@@ -56,7 +89,28 @@
         </description>
     </news>
     <!-- =========================================================================================================== -->
-
+    <news>
+        <title>RPI Chapter of ACMW Featured In XRDS, The ACM Magazine For Students</title>
+        <date>
+            <month>December</month>
+            <day>20</day>
+            <year>2015</year>
+        </date>
+        <description>
+            <paragraph>
+                This article discusses the ways that our chapter worked to reach out to the community and enhance the role
+                of female students in computing.  Former Chair Sarabeth Jaffe details events that our chapter has put on,
+                and conferences that our members have attended.
+            </paragraph>
+        </description>
+        <links>
+            <link>
+                <header>XRDS Article From ACM</header>
+                <url>http://xrds.acm.org/article.cfm?aid=2845131</url>
+            </link>
+        </links>
+    </news>
+    <!-- ============================================================================================================-->
     <news>
         <title>We've Been Awarded an NCWIT Student Seed Fund Gift!</title>
         <date>
@@ -75,12 +129,9 @@
                 <header>RPI's Announcement</header>
                 <url>http://news.rpi.edu/content/2015/06/03/association-computing-machinery%E2%80%99s-women-computing-awarded-grant</url>
             </link>
-            <link>
-                <header>NCWIT Press Release</header>
-                <url>https://www.ncwit.org/programs-campaigns/ncwit-awards/ncwit-student-seed-fund</url>
-            </link>
         </links>
     </news>
+
 
     <!-- =========================================================================================================== -->
 
