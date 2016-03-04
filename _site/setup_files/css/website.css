@@ -73,7 +73,8 @@ hence all the min-height, vertical-align, and line-height stuff*/
     min-width: 150px;
     padding: 5px;
     margin-right: 15px;
-    margin-bottom: 15px;
+    margin-bottom: 100%;
+
 }
 
 .btn-primary {
@@ -82,6 +83,7 @@ hence all the min-height, vertical-align, and line-height stuff*/
 .cardHolder {
     display: block;
     width: 100%;
+    clear: right;
 }
 
 .panel-title {
@@ -177,7 +179,7 @@ hence all the min-height, vertical-align, and line-height stuff*/
     max-width: 225px;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 500px) {
     .imageThumbnail {
         margin-left: 5px;
         margin-right: 5px;
@@ -188,6 +190,7 @@ hence all the min-height, vertical-align, and line-height stuff*/
 
         margin-left: auto;
         margin-right: auto;
+        margin-bottom: 15px;
     }
 
 

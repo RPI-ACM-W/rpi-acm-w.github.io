@@ -53,3 +53,16 @@ facultyLeadersB.click(function() {
     constitutionB.attr('class', 'nonactive');
 });
 
+studentLeadersB.click(function() {
+    aboutUs.hide();
+    studentLeaders.show();
+    facultyLeaders.hide();
+    constitution.hide();
+
+    aboutUsB.attr('class', 'nonactive');
+    studentLeadersB.attr('class', 'active');
+    facultyLeadersB.attr('class', 'nonactive');
+    constitutionB.attr('class', 'nonactive');
+
+});
+
