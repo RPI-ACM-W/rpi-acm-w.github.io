@@ -176,7 +176,8 @@ hence all the min-height, vertical-align, and line-height stuff*/
 }
 
 .headshot {
-    max-width: 225px;
+    width: 225px;
+
 }
 
 @media (max-width: 500px) {
