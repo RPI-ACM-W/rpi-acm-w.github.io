@@ -1,6 +1,17 @@
 {
   "eventsData": [
     {
+      "title": "Pariveda Solutions Talk & Dinner",
+      "date": {"month": "9", "day": "29", "year": "2016" },
+      "semester": "Fall 2016",
+      "time": {"start": "6:30", "startAMPM": "PM", "end": "7:30", "endAMPM": "PM"},
+      "location": "Union 3602 (Elsworth Room)",
+      "description": "Rethink Technology Consulting: This will be a dinner and talk to learn more about software development work at Pariveda Solutions and what your future could look like with the company.",
+      "links": [
+        {"link": "http://www.git-scm.com/", "descriptor": "Git Homepage"}
+      ]
+    },
+    {
       "title": "NY Capital Hackathon for Inclusivity",
       "date": {"month": "4", "day": "16", "year": "2016" },
       "semester": "Spring 2016",
