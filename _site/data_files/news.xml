@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <newsData>
+        <!-- =========================================================================================================== -->
+    <news>
+        <title>We've moved our website!</title>
+        <date>
+            <month>September</month>
+            <day>20</day>
+            <year>2017</year>
+        </date>
+        <description>
+            <paragraph>
+                We migrated our website to an alternative domain while this one is under construction.
+            </paragraph>
+        </description>
+        <links>
+            <link>
+                <header>Visit our new webpage here!</header>
+                <url>https://acmwrpi.wordpress.com</url>
+            </link>
+
+        </links>
+    </news>
     <!-- =========================================================================================================== -->
     <news>
         <title>Registration Now Open For NY Capital Hackathon for Inclusivity</title>
