@@ -1,7 +1,7 @@
 {"carouselData": [
   {
-    "img_src": "setup_files/images/home_carousel/amazon_group_photo_W.jpg",
-    "alt_tag": "Amazon Robotics group photo",
+    "img_src": "setup_files/images/home_carousel/ghc2017-group.jpg",
+    "alt_tag": "Grace Hopper Celebration 2017 group photo",
     "caption_header": "",
     "caption_body": ""
   },
@@ -12,8 +12,8 @@
     "caption_body": ""
   },
   {
-    "img_src": "setup_files/images/home_carousel/ghc_group_shot_W.jpg",
-    "alt_tag": "Grace Hopper Celebration group photo",
+    "img_src": "setup_files/images/home_carousel/ghc_around_table_W.jpg",
+    "alt_tag": "Members around the table",
     "caption_header": "",
     "caption_body": ""
   },
